@@ -1,0 +1,1 @@
+import{aG as o,aH as r}from"./CvO6hf9P.js";import{b as i}from"./DQG0t172.js";import"./Bz2LIQXo.js";import"./6h_Y0C3p.js";const f=o(t=>{const e=i();var a="";if(a=localStorage.getItem("token")??"",a==""){if(e.setLoginState(!1),!t.path.includes("service")&&t.path!="/")return r({path:"/"})}else e.setLoginState(!0)});export{f as default};

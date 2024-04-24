@@ -1,0 +1,1 @@
+import{_ as o}from"./CvO6hf9P.js";import{L as n,Q as s,C as a,F as r,ai as c,J as i}from"./Bz2LIQXo.js";const f={};function l(t,p){const e=c("NuxtNotifications");return i(),n(r,null,[s(t.$slots,"default"),a(e,{position:"top right",speed:500})],64)}const d=o(f,[["render",l]]);export{d as default};
